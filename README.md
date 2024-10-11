@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa API, construída com Flask, realiza web scraping em websites como Amazon, Kabum e Shopee, retornando dados de pré-visualização de links. A API é útil para obter informações como imagem, preço, título do produto e outras informações diretamente a partir de uma URL.
+Essa API, construída com Flask, realiza web scraping em websites como Amazon, Kabum e Steam, retornando dados de pré-visualização de links. A API é útil para obter informações como imagem, preço, título do produto e outras informações diretamente a partir de uma URL.
 
 ## Funcionalidade
 
